@@ -9,5 +9,6 @@ Our-game - простейшая одиночная игра, действия к
 
 Список разработчиков: Власов Матвей, Беляев Всеволод, Бондаренко Владимир, Лавринов Михаил, Павлова Анастасия.
 
-
-![2023-05-17_18-39-11](https://github.com/Matvey53/Our-game/assets/112934328/d2b51d45-4c6b-42d7-8b68-282f6839ba4e)
+![2023-05-17_18-25-32](https://github.com/Matvey53/Our-game/assets/112934328/b1a16211-ec1e-4661-aa13-fa691ee8af4b)
+![2023-05-17_18-25-04](https://github.com/Matvey53/Our-game/assets/112934328/ee412fea-f46b-4475-8b05-47fe519b2ce0)
+![2023-05-17_18-26-42](https://github.com/Matvey53/Our-game/assets/112934328/262c521a-46e3-427d-949d-654ef57be846)
